@@ -1,6 +1,6 @@
 # Práctico 4 Vue/Vue Router
 
-Parte 1 Instancia Vue
+# Parte 1 Instancia Vue
 
 1- Crear una app que en tiempo de ejecución despliegue: “Hola Mundo!” dentro de una etiqueta “p”
   
